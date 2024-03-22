@@ -1,4 +1,4 @@
-<H3>Name:MOHAMMED ADHITHYA M R</H3>
+<H3>Name:ADHITHYA M R</H3>
 <H3>Register no: 212222240002</H3>
 <H3>Experiment No. 2 </H3>
 
